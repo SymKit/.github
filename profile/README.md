@@ -45,4 +45,9 @@ Here are the main tools we offer, categorized by use case:
 ### 🌐 Routing & Communication
 * **[Mailer Bundle](https://github.com/SymKit/mailer-bundle):** Professional email management and sending based on **MJML** templates, featuring event-driven logging and asynchronous sending via Symfony Messenger.
 * **[Routing Bundle](https://github.com/SymKit/routing-bundle):** Dynamic database-driven routing offering native performance through seamless integration with Symfony's routing cache.
-* **[Redirect Bundle](https
+* **[Redirect Bundle](https://github.com/SymKit/redirect-bundle):** Database-driven URL redirect management (internal and external) with strict validation and global search.
+
+## 🤝 Contributing
+
+Open source is at the heart of SymKit! All contributions (bug reports, feature suggestions, Pull Requests) are highly appreciated. 
+If you want to help us maintain these tools or build new ones, feel free to fork our repositories and share your ideas.
